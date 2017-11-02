@@ -1,0 +1,15 @@
+.img-restricted {
+  width:200px;
+}
+
+.big-button {
+  width:200px;
+  height:200px;
+  color: black;
+}
+
+.fixed-button {
+    position: fixed;
+    top:0px;
+    left:0px; 
+}
